@@ -5,7 +5,8 @@
 </head>
 <body>
 
-
+<h1>DAFTAR MENU</h1>
+	
 <?php 
 
 $cireng = 1000;
